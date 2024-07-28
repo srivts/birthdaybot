@@ -29,8 +29,8 @@ birthdays_df = pd.read_csv(csv_file)
 # Email configuration
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
-sender_email = 'srivatsasuneelk@gmail.com'
-sender_password = 'kmkx jwgv bjjy zesu'
+sender_email = 'your_email_address'
+sender_password = 'password'
 
 image_path = "C:\\Users\\sandh\\OneDrive\\Desktop\\giphy.jpg"
 
